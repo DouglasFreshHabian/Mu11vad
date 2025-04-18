@@ -1,6 +1,6 @@
-<h2 align="center"> 
+<h3 align="center"> 
 🌟 mullvad-util.sh - A Fun and Interactive Mullvad VPN Relay Manager ⭐️
-</h2>
+</h3>
 
 ![mullvad-util help menu](https://github.com/DouglasFreshHabian/Mu11vad/blob/main/Assets/banner3.png)
 
