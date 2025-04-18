@@ -37,3 +37,8 @@ available Mullvad country codes, this tool makes it easy and enjoyable to manage
     -h, --help: Show the help menu for easy usage.
 ```
 This script is perfect for those who want a fun and straightforward way to manage Mullvad VPN connections, all while adding a touch of color and humor to the process.
+
+
+
+
+
