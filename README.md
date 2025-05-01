@@ -1,8 +1,17 @@
-<h3 align="center"> 
-🌟 mullvad-util.sh - A Fun and Interactive Mullvad VPN Relay Manager ⭐️
-</h3>
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
+![Shell Script](https://img.shields.io/badge/Bash-Mu11vadShield-yellow.svg)
+![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
+![Debian/Ubuntu](https://img.shields.io/badge/Tested-Debian%2FUbuntu-77216F.svg)
+![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-557C94?logo=kalilinux&logoColor=blue)
+![Parrot OS](https://img.shields.io/badge/Tested-Parrot%20OS-1BD96A?logo=parrot-security&logoColor=green)
+![Raspberry Pi](https://img.shields.io/badge/Tested-Raspberry%20Pi-C51A2B.svg)
 
-[![asciicast](https://asciinema.org/a/717699.svg)](https://asciinema.org/a/717699)
+[![asciicast](https://asciinema.org/a/717701.svg)](https://asciinema.org/a/717701)
+
+<h2 align="center"> 
+🌟 mullvad-util.sh - A Fun and Interactive Mullvad VPN Relay Manager ⭐️
+</h2>
 
 `mullvad-util.sh` is a Bash-based script designed to enhance your Mullvad VPN experience with interactive features, colorful output, 
 and fun Easter eggs! Whether you want to randomize your VPN relay location, switch to a specific country server, or simply explore 
