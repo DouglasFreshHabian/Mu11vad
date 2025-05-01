@@ -4,7 +4,6 @@
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 ![Debian/Ubuntu](https://img.shields.io/badge/Tested-Debian%2FUbuntu-77216F.svg)
 ![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-557C94?logo=kalilinux&logoColor=blue)
-![Parrot OS](https://img.shields.io/badge/Tested-Parrot%20OS-1BD96A?logo=parrot-security&logoColor=green)
 ![Raspberry Pi](https://img.shields.io/badge/Tested-Raspberry%20Pi-C51A2B.svg)
 
 [![asciicast](https://asciinema.org/a/717701.svg)](https://asciinema.org/a/717701)
