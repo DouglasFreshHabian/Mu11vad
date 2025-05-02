@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
-![Shell Script](https://img.shields.io/badge/Bash-Mu11vadShield-yellow.svg)
+![Shell Script](https://img.shields.io/badge/Bash-Mu11vad-yellow.svg)
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 ![Debian/Ubuntu](https://img.shields.io/badge/Tested-Debian%2FUbuntu-77216F.svg)
 ![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-white?logo=kalilinux&logoColor=black&labelColor=white&color=153f86&style=flat)
