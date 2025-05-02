@@ -3,7 +3,7 @@
 ![Shell Script](https://img.shields.io/badge/Bash-Mu11vadShield-yellow.svg)
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 ![Debian/Ubuntu](https://img.shields.io/badge/Tested-Debian%2FUbuntu-77216F.svg)
-![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-557C94?logo=kalilinux&logoColor=blue)
+![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-white?logo=kalilinux&logoColor=black&labelColor=white&color=153f86&style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/Tested-Raspberry%20Pi-C51A2B.svg)
 
 [![asciicast](https://asciinema.org/a/717701.svg)](https://asciinema.org/a/717701)
